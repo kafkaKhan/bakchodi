@@ -1,0 +1,37 @@
+body { background-color: skyblue;
+}
+
+.top { font-size: 2rem;
+padding-top: 5%;
+padding-left: 40%;
+background-color: #EDF5F5;
+padding-bottom: 2%;
+
+}
+.s {color: red;
+font-family: "comic neue";}
+.d {color: blue;
+font-family: "Do hyeon";}
+.a {color: purple;
+font-family:"Spicy Rice";}
+
+.p {padding-left: 65%;}
+
+ .title { color: purple;
+   font-family: 'Sacramento', cursive;
+padding-left: 35%;
+padding-top: 15%;
+line-height: 70px;}
+
+.red { color: red;}
+ .row {background-color: skyblue;}
+
+.para2 { padding-left: 30%;
+padding-top: 2%;
+font-size: 2rem;
+font-family: "Liu Jian Mao Cao";}
+
+.dev-img { float: right;
+max-height: 300px;
+max-width: 400px;}
+.title-img{height: 385;}
